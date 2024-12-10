@@ -32,48 +32,48 @@ This repository contains a project that demonstrates image classification using 
 - Python 3.7 or later
 - A web browser
 
-###Installation
+### Installation
 
-Clone the Repository:
-
+1. **Clone the repository:**
+   
 Bash
-git clone https://github.com/JayRathod341997/DeepLensX.git
+git clone https://github.com/NIDHISH123/Image-Classification-Using-Machine-Learning-Deep-Learning-AICTE-Internship
 Use code with caution.
 
 Create and Activate a Virtual Environment (Recommended):
 
-Linux/macOS:
+2. **Linux/macOS:**
 
 Bash
 python -m venv venv
 source venv/bin/activate  # Activate the virtual environment
 Use code with caution.
 
-Windows:
-
-Bash
-python -m venv venv
-venv\Scripts\activate.bat   # Activate the virtual environment
-Use code with caution.
-
-Install Dependencies:
+3. **Install the required packages:**
 
 Bash
 pip install -r requirements.txt
 Use code with caution.
 
-Running the App
-
-Start Streamlit:
+4. **Start the Streamlit app:**
 
 Bash
-streamlit run app.py
+streamlit run Myapp.py
 Use code with caution.
 
-Open Your Web Browser:
+5. **Open Your Web Browser:**
 
-The app will typically open in your default browser at http://localhost:
+The app will open in your default web browser. If not, navigate to http://localhost:8501
 
+### Usage
+1. Use the navigation bar to select either the MobileNetV2 or CIFAR-10 model.
+2. Upload an image file (JPG or PNG).
+3.View the classification results and confidence scores.
 
+### Contributing
+Feel free to fork the repository, open issues, or submit pull requests to contribute to the project.
 
 ### Ack
+
+Streamlit
+TensorFlow
