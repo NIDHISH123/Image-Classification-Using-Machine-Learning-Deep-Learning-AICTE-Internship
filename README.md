@@ -67,5 +67,5 @@ Feel free to fork the repository, open issues, or submit pull requests to contri
 
 ### Ack
 
-Streamlit
-TensorFlow
+1. Streamlit
+2. ensorFlow
