@@ -37,8 +37,8 @@ This repository contains a project that demonstrates image classification using 
 1. **Clone the repository:**
    
  Open a terminal and clone the repository to your local machine by running the following command:
-
-   git clone https://github.com/NIDHISH123/Image-Classification-Using-Machine-Learning-Deep-Learning-AICTE-Internship ```
+-`
+   git clone https://github.com/NIDHISH123/Image-Classification-Using-Machine-Learning-Deep-Learning-AICTE-Internship `
 
 
 2. **Create and activate a virtual environment:**
