@@ -25,8 +25,54 @@ This repository contains a project that demonstrates image classification using 
 - Upload any image and get **classification results** instantly.
 - Predictions displayed with **confidence percentages**, providing transparency into the model's decision-making.
 
+## Getting Started
 
-## How to rum the code
+### Prerequisites
+
+- Python 3.7 or later
+- A web browser
+
+###Installation
+
+Clone the Repository:
+
+Bash
+git clone https://github.com/JayRathod341997/DeepLensX.git
+Use code with caution.
+
+Create and Activate a Virtual Environment (Recommended):
+
+Linux/macOS:
+
+Bash
+python -m venv venv
+source venv/bin/activate  # Activate the virtual environment
+Use code with caution.
+
+Windows:
+
+Bash
+python -m venv venv
+venv\Scripts\activate.bat   # Activate the virtual environment
+Use code with caution.
+
+Install Dependencies:
+
+Bash
+pip install -r requirements.txt
+Use code with caution.
+
+Running the App
+
+Start Streamlit:
+
+Bash
+streamlit run app.py
+Use code with caution.
+
+Open Your Web Browser:
+
+The app will typically open in your default browser at http://localhost:
 
 
 
