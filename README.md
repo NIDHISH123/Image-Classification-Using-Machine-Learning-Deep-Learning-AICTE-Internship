@@ -36,32 +36,26 @@ This repository contains a project that demonstrates image classification using 
 
 1. **Clone the repository:**
    
-Bash
-git clone https://github.com/NIDHISH123/Image-Classification-Using-Machine-Learning-Deep-Learning-AICTE-Internship
-Use code with caution.
+ Open a terminal and clone the repository to your local machine by running the following command:
+
+   ```bash
+   git clone https://github.com/NIDHISH123/Image-Classification-Using-Machine-Learning-Deep-Learning-AICTE-Internship
 
 Create and Activate a Virtual Environment (Recommended):
 
-2. **Linux/macOS:**
-
-Bash
-python -m venv venv
-source venv/bin/activate  # Activate the virtual environment
-Use code with caution.
+2. **Create and activate a virtual environment:**
+ `python -m venv venv`  
+   - `source venv/bin/activate` (macOS/Linux)  
+   - `venv\Scripts\activate` (Windows)
 
 3. **Install the required packages:**
-
-Bash
-pip install -r requirements.txt
-Use code with caution.
+`pip install -r requirements.txt`
 
 4. **Start the Streamlit app:**
-
-Bash
-streamlit run Myapp.py
-Use code with caution.
+   `streamlit run Myapp.py`
 
 5. **Open Your Web Browser:**
+ Go to `http://localhost:8501` in your browser.
 
 The app will open in your default web browser. If not, navigate to http://localhost:8501
 
